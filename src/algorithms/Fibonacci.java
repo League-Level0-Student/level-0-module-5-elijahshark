@@ -6,48 +6,10 @@ public static void main(String[] args) {
 	int n = 0;
 int q; 
 for(int i = 0; i < 12; i++) {
-q = n;
+q = n + nn;
 n = nn;
 nn = q;
+System.out.println(q);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
 }
